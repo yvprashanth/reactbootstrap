@@ -40,6 +40,7 @@ class Main extends Component {
     }
 
     const DishWithId = ({match}) => {
+      debugger;
       return(
           <DishDetail
             dish={
